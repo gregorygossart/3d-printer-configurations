@@ -2,7 +2,7 @@
 
 Configured for printer: [Bambu Lab P2S](../versions/printers/Bambu%20Lab%20P2S/v0.0.1/printer.md)
 Configured for nozzle: 0.2mm
-Configured for filament: [Sunlu PLA+ Grey](../versions/filaments/Sunlu%20PLA+%20Grey/v0.0.1/filament.md)
+Configured for filament: [Sunlu PLA+ Grey](../versions/filaments/Sunlu%20PLA+%20Grey/v0.0.2/filament.md)
 
 ## Quality
 
@@ -199,12 +199,12 @@ Configured for filament: [Sunlu PLA+ Grey](../versions/filaments/Sunlu%20PLA+%20
 
 - Enable support: Yes
 - Type: Tree (auto)
-- Style: Tree Slim
-- Threshold angle: 30°
+- Style: Tree Organic
+- Threshold angle: 50°
 - Threshold overlap: 50%
 - First layer density: 90%
 - First layer expansion: 2 mm
-- On build plate only: No
+- On build plate only: Yes
 - Ignore small overhangs: Yes
 
 ### Raft
@@ -234,10 +234,20 @@ Configured for filament: [Sunlu PLA+ Grey](../versions/filaments/Sunlu%20PLA+%20
 - Top interface spacing: 0.5 mm
 - Bottom interface spacing: 0.5 mm
 - Normal support expansion: 0 mm
-- Support/object XY distance: 0.35 mm
+- Support/object XY distance: 0.5 mm
 - Support/object first layer gap: 0.2 mm
 - Don't support bridges: No
 - Independent support layer height: Yes
+
+### Tree supports
+
+- Tip diameter: 0.6 mm
+- Tree support branch distance: 1 mm
+- Branch density: 30%
+- Tree support branch diameter: 1 mm
+- Branch diameter angle: 5°
+- Tree support branch angle: 40°
+- Preferred branch angle: 25°
 
 ## Multimaterial
 

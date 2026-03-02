@@ -239,6 +239,16 @@ Configured for filament: [Sunlu PLA+ Grey](../versions/filaments/Sunlu%20PLA+%20
 - Don't support bridges: No
 - Independent support layer height: Yes
 
+### Tree supports
+
+- Tip diameter: 0.8 mm
+- Tree support branch distance: 1 mm
+- Branch density: 30%
+- Tree support branch diameter: 2 mm
+- Branch diameter angle: 5°
+- Tree support branch angle: 40°
+- Preferred branch angle: 25°
+
 ## Multimaterial
 
 ### Prime tower

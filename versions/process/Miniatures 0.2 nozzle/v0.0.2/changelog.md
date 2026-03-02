@@ -15,9 +15,15 @@
 * **Support**
     * **Support**: 
         * Changed `Enable support` from `No` to `Yes`.
-        * Changed `Style` from `Default (Grid)` to `Tree Slim`.
+        * Changed `Style` from `Default (Grid)` to `Tree Organic`.
+        * Changed `Threshold angle` from `30°` to `50°`.
+        * Changed `On build plate only` from `No` to `Yes`.
     * **Advanced**: 
         * Increased `Top Z distance` from `0.08 mm` to `0.12 mm`.
         * Increased `Bottom Z distance` from `0.08 mm` to `0.12 mm`.
         * Increased `Top interface layers` from `2 layers` to `3 layers`.
         * Increased `Bottom interface layers` from `2 layers` to `3 layers`.
+        * Increased `Support/object XY distance` from `0.35 mm` to `0.5 mm`.
+    * **Tree supports**: 
+        * Decreased `Tip diameter` from `0.8 mm` to `0.6 mm`.
+        * Decreased `Tree support branch diameter` from `2 mm` to `1 mm`.
