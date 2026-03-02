@@ -8,7 +8,7 @@ Configured for filament: [Sunlu PLA+ Grey](../versions/filaments/Sunlu%20PLA+%20
 
 ### Layer height
 
-- Layer height: 0.06 mm
+- Layer height: 0.08 mm
 - First layer height: 0.1 mm
 
 ### Line width
@@ -90,17 +90,17 @@ Configured for filament: [Sunlu PLA+ Grey](../versions/filaments/Sunlu%20PLA+%20
 
 ### Walls
 
-- Wall loops: 6
+- Wall loops: 4
 - Alternate extra wall: No
 - Detect thin walls: No
 
 ### Top/bottom shells
 
-- Top shell layers: 10
+- Top shell layers: 7
 - Top shell thickness: 0.8 mm
 - Top surface density: 100%
 - Top surface pattern: Monotonic
-- Bottom shell layers: 8
+- Bottom shell layers: 5
 - Bottom shell thickness: 0 mm
 - Bottom surface density: 100%
 - Bottom surface pattern: Monotonic
@@ -141,8 +141,8 @@ Configured for filament: [Sunlu PLA+ Grey](../versions/filaments/Sunlu%20PLA+%20
 
 ### Other layers speed
 
-- Outer wall: 30 mm/s
-- Inner wall: 80 mm/s
+- Outer wall: 60 mm/s
+- Inner wall: 150 mm/s
 - Small perimeters: 50%
 - Small perimeters threshold: 0 mm
 - Sparse infill: 100 mm/s
@@ -197,9 +197,9 @@ Configured for filament: [Sunlu PLA+ Grey](../versions/filaments/Sunlu%20PLA+%20
 
 ### Support
 
-- Enable support: Yes
+- Enable support: No
 - Type: Tree (auto)
-- Style: Tree Slim
+- Style: Default (Grid)
 - Threshold angle: 30°
 - Threshold overlap: 50%
 - First layer density: 90%
@@ -222,14 +222,14 @@ Configured for filament: [Sunlu PLA+ Grey](../versions/filaments/Sunlu%20PLA+%20
 
 ### Advanced
 
-- Top Z distance: 0.12 mm
-- Bottom Z distance: 0.12 mm
+- Top Z distance: 0.08 mm
+- Bottom Z distance: 0.08 mm
 - Support wall loops: 0
 - Base pattern: Default
 - Base pattern spacing: 2.5 mm
 - Pattern angle: 0°
-- Top interface layers: 3 layers
-- Bottom interface layers: 3 layers
+- Top interface layers: 2 layers
+- Bottom interface layers: 2 layers
 - Interface pattern: Default
 - Top interface spacing: 0.5 mm
 - Bottom interface spacing: 0.5 mm

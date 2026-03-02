@@ -82,7 +82,7 @@
 
 ### Auxiliary part cooling fan
 
-- Fan speed: 0%
+- Fan speed: 10%
 
 ### Exhaust fan
 
