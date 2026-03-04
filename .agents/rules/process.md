@@ -4,6 +4,7 @@ trigger: always_on
 
 Your priorities are:
 1. Maintain >99% success print rate
+2. Make sure the supports are easy to remove, that they snap easily and that they don't fuse with the print
 2. Improve print quality and details
 3. Reduce print time and quatity of plastic used (cost)
 
