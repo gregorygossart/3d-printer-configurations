@@ -97,13 +97,6 @@
 - Long retraction when cut (beta): Yes
 - Retraction distance when cut: 18 mm
 
-### Ironing
-
-- Ironing flow: (Not Overridden) 10%
-- Ironing line spacing: (Not Overridden) 0.15 mm
-- Ironing inset: (Not Overridden) 0.11 mm
-- Ironing speed: (Not Overridden) 30 mm/s
-
 ## Advanced
 
 - Filament start G-code
