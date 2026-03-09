@@ -31,8 +31,8 @@
 ### Flow ratio and Pressure Advance
 
 - Flow ratio: 1.0
-- Enable pressure advance: No
-- Pressure advance: 0.0
+- Enable pressure advance: Yes
+- Pressure advance: 0.225
 - Enable adaptive pressure advance (beta): No
 
 ### Print chamber temperature
@@ -93,6 +93,12 @@
 ## Setting Overrides
 
 ### Retraction (only overriden values are present)
+
+- Retraction Length: 0.4mm
+- Retraction Speed: 30mm/s
+- Wipe while retraction: Yes
+- Long retraction when cut (beta): Yes
+- Retraction distance when cut: 18
 
 ## Advanced
 
