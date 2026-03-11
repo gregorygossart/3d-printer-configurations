@@ -149,8 +149,8 @@ Configured for filament: [Sunlu PLA+ 2.0 High Speed Grey - Bambu Lab P2S - 0.2 n
 - Internal solid infill: 150 mm/s
 - Top surface: 150 mm/s
 - Gap infill: 50 mm/s
-- Support: 150 mm/s
-- Support interface: 80 mm/s
+- Support: 120 mm/s
+- Support interface: 60 mm/s
 
 ### Overhang speed
 
@@ -205,7 +205,8 @@ Configured for filament: [Sunlu PLA+ 2.0 High Speed Grey - Bambu Lab P2S - 0.2 n
 - First layer density: 90%
 - First layer expansion: 2 mm
 - On build plate only: Yes
-- Ignore small overhangs: Yes
+- Support critical regions only: No
+- Ignore small overhangs: No
 
 ### Raft
 
@@ -224,28 +225,28 @@ Configured for filament: [Sunlu PLA+ 2.0 High Speed Grey - Bambu Lab P2S - 0.2 n
 
 - Top Z distance: 0.18 mm
 - Bottom Z distance: 0.12 mm
-- Support wall loops: 2
+- Support wall loops: 1
 - Base pattern: Default
 - Base pattern spacing: 2.5 mm
 - Pattern angle: 0°
 - Top interface layers: 3 layers
-- Bottom interface layers: 3 layers
-- Interface pattern: Default
-- Top interface spacing: 0.8 mm
-- Bottom interface spacing: 0.5 mm
-- Normal support expansion: 0 mm
-- Support/object XY distance: 0.7 mm
+- Bottom interface layers: 2 layers
+- Interface pattern: Rectilinear
+- Top interface spacing: 0.2 mm
+- Bottom interface spacing: 0.2 mm
+- Normal support expansion: 0.1 mm
+- Support/object XY distance: 0.4 mm
 - Support/object first layer gap: 0.2 mm
-- Don't support bridges: No
+- Max bridge length: 0 mm
 - Independent support layer height: Yes
 
 ### Tree supports
 
 - Tip diameter: 0.6 mm
 - Tree support branch distance: 2 mm
-- Branch density: 30%
-- Tree support branch diameter: 1.2 mm
-- Branch diameter angle: 4°
+- Branch density: 25%
+- Tree support branch diameter: 1.1 mm
+- Branch diameter angle: 2°
 - Tree support branch angle: 40°
 - Preferred branch angle: 25°
 

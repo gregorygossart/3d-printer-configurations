@@ -200,7 +200,7 @@ Configured for filament: [Sunlu PLA+ 2.0 High Speed Grey - Bambu Lab P2S - 0.2 n
 - Enable support: Yes
 - Type: Tree (auto)
 - Style: Tree Organic
-- Threshold angle: 40°
+- Threshold angle: 50°
 - Threshold overlap: 50%
 - First layer density: 90%
 - First layer expansion: 2 mm
@@ -222,30 +222,30 @@ Configured for filament: [Sunlu PLA+ 2.0 High Speed Grey - Bambu Lab P2S - 0.2 n
 
 ### Advanced
 
-- Top Z distance: 0.18 mm
+- Top Z distance: 0.24 mm
 - Bottom Z distance: 0.12 mm
-- Support wall loops: 2
+- Support wall loops: 1
 - Base pattern: Default
 - Base pattern spacing: 2.5 mm
 - Pattern angle: 0°
-- Top interface layers: 3 layers
-- Bottom interface layers: 3 layers
+- Top interface layers: 2 layers
+- Bottom interface layers: 2 layers
 - Interface pattern: Default
-- Top interface spacing: 0.8 mm
+- Top interface spacing: 1.2 mm
 - Bottom interface spacing: 0.5 mm
 - Normal support expansion: 0 mm
-- Support/object XY distance: 0.7 mm
+- Support/object XY distance: 1.5 mm
 - Support/object first layer gap: 0.2 mm
 - Don't support bridges: No
 - Independent support layer height: Yes
 
 ### Tree supports
 
-- Tip diameter: 0.6 mm
-- Tree support branch distance: 2 mm
-- Branch density: 30%
-- Tree support branch diameter: 1.2 mm
-- Branch diameter angle: 4°
+- Tip diameter: 0.5 mm
+- Tree support branch distance: 4 mm
+- Branch density: 20%
+- Tree support branch diameter: 1.1 mm
+- Branch diameter angle: 2°
 - Tree support branch angle: 40°
 - Preferred branch angle: 25°
 
