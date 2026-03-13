@@ -26,3 +26,9 @@
 - Need to focus on reducing "engulfment" of fine details.
 - Need to improve overhang/bottom surface quality.
 - The base trembling suggests we might need more stability for the model itself if it's tall and thin, or slower speeds for those regions.
+
+## Paper Test (75x75x0.12mm square)
+- **Outcome**: Initially not soft.
+- **Troubleshooting**: Changed all line width settings to 0.2mm.
+- **Result**: Surface is now soft.
+- **Conclusion**: Moving all line width settings to 0.2mm for next version.

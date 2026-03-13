@@ -12,27 +12,35 @@
 
 ### Default
 - v0.0.13: 0.22 mm
+- v0.0.14: 0.2 mm (Matches nozzle diameter for a 'softer' surface finish as validated by the paper test)
 
 ### First layer
 - v0.0.13: 0.25 mm
+- v0.0.14: 0.2 mm (Matches nozzle diameter for a 'softer' surface finish as validated by the paper test)
 
 ### Outer wall
 - v0.0.13: 0.22 mm
+- v0.0.14: 0.2 mm (Matches nozzle diameter for a 'softer' surface finish as validated by the paper test)
 
 ### Inner wall
 - v0.0.13: 0.22 mm
+- v0.0.14: 0.2 mm (Matches nozzle diameter for a 'softer' surface finish as validated by the paper test)
 
 ### Top surface
 - v0.0.13: 0.22 mm
+- v0.0.14: 0.2 mm (Matches nozzle diameter for a 'softer' surface finish as validated by the paper test)
 
 ### Sparse infill
 - v0.0.13: 0.22 mm
+- v0.0.14: 0.2 mm (Matches nozzle diameter for a 'softer' surface finish as validated by the paper test)
 
 ### Internal solid infill
 - v0.0.13: 0.22 mm
+- v0.0.14: 0.2 mm (Matches nozzle diameter for a 'softer' surface finish as validated by the paper test)
 
 ### Support
 - v0.0.13: 0.22 mm
+- v0.0.14: 0.2 mm (Matches nozzle diameter for a 'softer' surface finish as validated by the paper test)
 
 ## Seam
 
