@@ -65,6 +65,7 @@ Configured for filament: [Sunlu PLA+ 2.0 High Speed Grey - Bambu Lab P2S - 0.2 n
 - One wall threshold: 300%
 - Only one wall on first layer: No
 - Avoid crossing walls: Yes
+- Avoid crossing walls - Max detour length: 0 mm
 - Small area flow compensation (beta): No
 
 ### Bridging
@@ -114,10 +115,12 @@ Configured for filament: [Sunlu PLA+ 2.0 High Speed Grey - Bambu Lab P2S - 0.2 n
 - Fill Multiline: 1
 - Sparse infill pattern: Gyroid
 - Sparse infill direction: 45°
+- Sparse infill rotation template: (Empty)
 - Maximum length of the infill anchor: 20 mm
 - Sparse infill anchor length: 400%
 - Internal solid infill pattern: Monotonic
 - Solid infill direction: 45°
+- Solid infill rotation template: (Empty)
 - Apply gap fill: Nowhere
 - Filter out tiny gaps: 0 mm
 - Infill/wall overlap: 15%
@@ -125,6 +128,7 @@ Configured for filament: [Sunlu PLA+ 2.0 High Speed Grey - Bambu Lab P2S - 0.2 n
 ### Advanced
 
 - Align infill direction to model: No
+- Insert solid layers: (Empty)
 - External bridge infill direction: 0°
 - Internal bridge infill direction: 0°
 - Minimum sparse infill threshold: 15 mm²
@@ -201,7 +205,7 @@ Configured for filament: [Sunlu PLA+ 2.0 High Speed Grey - Bambu Lab P2S - 0.2 n
 
 - Enable support: Yes
 - Type: Tree (auto)
-- Style: Tree Organic
+- Style: Organic
 - Threshold angle: 40°
 - Threshold overlap: 50%
 - First layer density: 100%
@@ -326,4 +330,4 @@ Configured for filament: [Sunlu PLA+ 2.0 High Speed Grey - Bambu Lab P2S - 0.2 n
 
 ### Post-processing Scripts
 
-- (None)
+- (Empty)
